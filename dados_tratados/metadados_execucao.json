@@ -1,0 +1,39 @@
+{
+  "executado_em": "2026-08-30T18:13:00",
+  "qtd_projetos": 22,
+  "qtd_periodos_cluster": 18,
+  "meta_anual": 88000,
+  "meta_colaborativa": 70000,
+  "colunas_projetos": [
+    "data_registro",
+    "nome_projeto",
+    "area",
+    "responsavel",
+    "cliente",
+    "satisfacao",
+    "valor_total_projeto",
+    "valor_faturamento_colaborativo",
+    "projeto_de_impacto",
+    "data_inicio",
+    "data_fim",
+    "status",
+    "ano_inicio",
+    "mes_inicio",
+    "ano_mes_inicio",
+    "duracao_dias",
+    "valor_faturamento_proprio"
+  ],
+  "colunas_cluster_base": [
+    "ano_mes_inicio",
+    "faturamento_total",
+    "faturamento_colaborativo",
+    "faturamento_proprio",
+    "qtd_projetos",
+    "qtd_projetos_impacto",
+    "qtd_projetos_concluidos",
+    "csat_medio",
+    "qtd_avaliacoes_csat",
+    "pct_projetos_impacto",
+    "pct_faturamento_colaborativo"
+  ]
+}

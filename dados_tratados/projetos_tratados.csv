@@ -1,0 +1,23 @@
+data_registro,nome_projeto,area,responsavel,cliente,satisfacao,valor_total_projeto,valor_faturamento_colaborativo,projeto_de_impacto,data_inicio,data_fim,status,ano_inicio,mes_inicio,ano_mes_inicio,duracao_dias,valor_faturamento_proprio
+2026-09-07 15:31:26.000,Projeto Umbra,Mobile,Juliana Lima,Aurora Labs,5.0,2500,0,False,2024-03-09,2024-04-09,Concluído,2024,3,2024-03,31,2500
+2026-09-06 15:31:26.000,Projeto Constelação,Sites,Marcos Vinícius,Delta Consult,5.0,5000,5000,False,2024-04-19,2024-05-19,Concluído,2024,4,2024-04,30,0
+2026-09-05 15:31:26.000,Projeto Solstício,Mobile,Rafael Souza,NimbusSoft,4.0,3000,0,False,2024-05-11,2024-06-11,Concluído,2024,5,2024-05,31,3000
+2026-09-04 15:31:26.000,Projeto Vetor,Desktop,Pedro de Pádua,Jagger CO,4.0,17000,0,False,2024-07-21,2024-08-21,Concluído,2024,7,2024-07,31,17000
+2026-09-03 15:31:26.000,Projeto Odisseia,Desktop,Marcos Vinícius,Delta Consult,4.0,7000,0,False,2024-08-01,2024-09-01,Concluído,2024,8,2024-08,31,7000
+2026-09-02 15:31:26.000,Projeto Zênite,Sites,Marcos Vinícius,Delta Consult,5.0,20000,20000,False,2024-08-10,2024-09-10,Concluído,2024,8,2024-08,31,0
+2026-09-01 15:31:26.000,Projeto Kite,Desktop,Pedro de Pádua,Jagger CO,4.0,10000,0,False,2024-09-20,2024-10-20,Concluído,2024,9,2024-09,30,10000
+2026-08-31 15:31:26.000,Projeto Meridiano,Mobile,Rafael Souza,NimbusSoft,5.0,15000,0,False,2024-10-30,2024-11-30,Concluído,2024,10,2024-10,31,15000
+2026-08-30 15:31:26.000,Projeto Horizonte,Sites,Larissa Costa,Nexus Cloud,5.0,35000,35000,True,2024-11-15,2025-01-15,Concluído,2024,11,2024-11,61,0
+2026-09-13 15:31:26.000,Projeto Jade,Sites,Rafael Souza,NimbusSoft,4.0,25000,25000,False,2025-03-17,2025-04-17,Concluído,2025,3,2025-03,31,0
+2026-09-12 15:31:26.000,Projeto Pórtico,Mobile,Bernardo Ferreira,UNIFEI,5.0,8000,0,False,2025-04-17,2025-05-17,Concluído,2025,4,2025-04,30,8000
+2026-09-11 15:31:26.000,Projeto Gênesis,Sites,Camila Rocha,Vortex Tech,5.0,13000,0,False,2025-07-29,2025-08-29,Concluído,2025,7,2025-07,31,13000
+2026-09-10 15:31:26.000,Projeto Atlas,Desktop,Pedro de Pádua,Jagger CO,5.0,15000,15000,False,2025-09-10,2025-10-10,Concluído,2025,9,2025-09,30,0
+2026-09-09 15:31:26.000,Projeto Raiz,Mobile,Rafael Souza,NimbusSoft,5.0,20000,20000,True,2025-11-02,2025-12-02,Concluído,2025,11,2025-11,30,0
+2026-09-08 15:31:26.000,Projeto Aurora II,Desktop,Bernardo Ferreira,UNIFEI,4.0,7000,0,False,2025-11-17,2025-12-17,Concluído,2025,11,2025-11,30,7000
+2026-09-19 15:31:26.000,Projeto Ícaro,Sites,Juliana Lima,Aurora Labs,,18000,18000,False,2026-02-13,2026-03-13,Em andamento,2026,2,2026-02,28,0
+2026-09-18 15:31:26.000,Projeto Nova,Sites,Thiago Martins,Cedro Analytics,,5000,0,False,2026-05-11,2026-06-11,Em andamento,2026,5,2026-05,31,5000
+2026-09-17 15:31:26.000,Projeto Fênix,Mobile,Pedro de Pádua,Jagger CO,,10000,0,True,2026-06-10,2026-07-10,Em andamento,2026,6,2026-06,30,10000
+2026-09-23 15:31:26.000,Projeto Quasar,Dados,Beatriz Nunes,Prisma Digital,,2000,0,False,2026-08-10,2026-09-10,Iniciado,2026,8,2026-08,31,2000
+2026-08-29 18:55:36.565,Projeto ASURA,Dados,italo Dias,Empresa x,,4000,0,False,2026-10-07,2026-11-07,Iniciado,2026,10,2026-10,31,4000
+2026-08-29 18:07:03.613,Projeto Arthur,Dados,Italo Dias,TCAR,,5000,5000,False,2026-10-15,2026-11-15,Iniciado,2026,10,2026-10,31,0
+2026-09-21 15:31:26.000,Projeto Eclipse,Sites,Gustavo Ramos,Órbita Dev,,30000,30000,False,2026-10-23,2026-11-23,Em andamento,2026,10,2026-10,31,0
