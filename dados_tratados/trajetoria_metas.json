@@ -1,20 +1,20 @@
 {
   "faturamento_total": {
     "ano_referencia": 2026,
-    "realizado_ate_agora": 74000.0,
-    "projetado_meses_restantes": 27333.333333333332,
-    "total_projetado_ano": 101333.33333333333,
+    "realizado_ate_agora": 64323.0,
+    "projetado_meses_restantes": 38941.756231671556,
+    "total_projetado_ano": 103264.75623167155,
     "meta": 88000,
-    "gap_para_meta": -13333.333333333328,
+    "gap_para_meta": -15264.756231671548,
     "atingira_meta": true
   },
   "faturamento_colaborativo": {
     "ano_referencia": 2026,
-    "realizado_ate_agora": 53000.0,
-    "projetado_meses_restantes": 23333.333333333332,
-    "total_projetado_ano": 76333.33333333333,
+    "realizado_ate_agora": 0.0,
+    "projetado_meses_restantes": 0.0,
+    "total_projetado_ano": 0.0,
     "meta": 70000,
-    "gap_para_meta": -6333.3333333333285,
-    "atingira_meta": true
+    "gap_para_meta": 70000.0,
+    "atingira_meta": false
   }
 }
