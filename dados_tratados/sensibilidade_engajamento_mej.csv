@@ -1,0 +1,5 @@
+cenario_engajamento_mej,eng_mej_pct,indice_cluster,cluster_final
+pessimista (40%),0.4,66502503.01319647,4
+assumido no notebook (70%),0.7,80753039.37316714,4
+meta institucional (75%),0.75,83128128.7664956,4
+otimista (90%),0.9,90253396.94648091,4
