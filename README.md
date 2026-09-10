@@ -47,3 +47,11 @@ Cada notebook lê a saída do anterior a partir da pasta `dados_tratados/`, ent�
 - Gera recomendações automáticas (ex.: quanto falta faturar para alcançar o Cluster 5).
 - Exporta `avaliacao_cluster_historico.csv`, `sensibilidade_engajamento_mej.csv` e `avaliacao_cluster_projetada.json`.
 ---
+
+## Tecnologias
+ 
+- Python 3.13
+- pandas, numpy
+- matplotlib, seaborn
+- scikit-learn (`StandardScaler`, `LinearRegression`, `mean_absolute_error`)
+
