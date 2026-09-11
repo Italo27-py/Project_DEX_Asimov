@@ -1,0 +1,20 @@
+{
+  "faturamento_total": {
+    "ano_referencia": 2026,
+    "realizado_ate_agora": 64323.0,
+    "projetado_meses_restantes": 38941.756231671556,
+    "total_projetado_ano": 103264.75623167155,
+    "meta": 88000,
+    "gap_para_meta": -15264.756231671548,
+    "atingira_meta": true
+  },
+  "faturamento_colaborativo": {
+    "ano_referencia": 2026,
+    "realizado_ate_agora": 0.0,
+    "projetado_meses_restantes": 0.0,
+    "total_projetado_ano": 0.0,
+    "meta": 70000,
+    "gap_para_meta": 70000.0,
+    "atingira_meta": false
+  }
+}

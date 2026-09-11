@@ -1,0 +1,21 @@
+{
+  "ano_referencia": 2026,
+  "parametros_assumidos": {
+    "eng_mej_pct": 0.7,
+    "csat_fallback_historico": 4.6,
+    "cluster_anterior_conhecido": null,
+    "selo_ej_em_conformidade": true,
+    "observacao": "eng_mej_pct, tempo de permanencia no MEJ e politicas de diversidade e inclusao ainda precisam ser confirmados com o gestor — nao vem do formulario de projetos."
+  },
+  "avaliacao_projetada": {
+    "faturamento": 103264.75623167155,
+    "csat": 4.6,
+    "eng_mej_pct": 0.7,
+    "pct_faturamento_colaborativo": 0.0,
+    "qtd_projetos_impacto": 1,
+    "indice_cluster": 80753039.37316714,
+    "cluster_bruto": 4,
+    "cluster_final": 4,
+    "motivos_ajuste": null
+  }
+}

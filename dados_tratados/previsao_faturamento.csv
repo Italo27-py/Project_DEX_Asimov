@@ -1,0 +1,13 @@
+ano_mes,metrica,metodo,previsto,intervalo_inferior,intervalo_superior
+2026-09,faturamento_total,linear,9619.004032258064,0.0,31822.43779383955
+2026-10,faturamento_total,linear,9696.627382697949,0.0,31900.061144279432
+2026-11,faturamento_total,linear,9774.25073313783,0.0,31977.684494719313
+2026-12,faturamento_total,linear,9851.874083577713,0.0,32055.307845159197
+2027-01,faturamento_total,linear,9929.497434017596,0.0,32132.931195599078
+2027-02,faturamento_total,linear,10007.120784457478,0.0,32210.554546038962
+2026-09,faturamento_colaborativo,baseline,0.0,0.0,17424.417424426134
+2026-10,faturamento_colaborativo,baseline,0.0,0.0,17424.417424426134
+2026-11,faturamento_colaborativo,baseline,0.0,0.0,17424.417424426134
+2026-12,faturamento_colaborativo,baseline,0.0,0.0,17424.417424426134
+2027-01,faturamento_colaborativo,baseline,0.0,0.0,17424.417424426134
+2027-02,faturamento_colaborativo,baseline,0.0,0.0,17424.417424426134
