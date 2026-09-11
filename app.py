@@ -466,7 +466,7 @@ with col5:
 
 st.divider()
 
-tab1, tab2, tab3, tab4, tab5, tab6, tab7, tab8 = st.tabs(
+tab1, tab2, tab3, tab4, tab5, tab6, tab7= st.tabs(
     [
         "📈 Faturamento",
         "📅 2026 em Foco",
@@ -475,7 +475,6 @@ tab1, tab2, tab3, tab4, tab5, tab6, tab7, tab8 = st.tabs(
         "🗓️ Histórico Multi-Ano",
         "🗂️ Projetos",
         "💡 Insights & Recomendações",
-        "⚠️ Pendências",
     ]
 )
 
@@ -827,17 +826,3 @@ with tab7:
 # ----------------------------------------------------------------------
 # TAB 8 — Pendências
 # ----------------------------------------------------------------------
-with tab8:
-    st.subheader("⚠️ Itens institucionais em aberto")
-    st.warning(parametros["observacao"])
-
-    st.markdown(
-        f"""
-| Item | Status |
-|---|---|
-| % Engajamento com o MEJ | Hardcoded em **{parametros['eng_mej_pct']*100:.0f}%** — precisa confirmação com Direx/MEJ |
-| Cluster oficial do ano anterior | **Não informado** (`cluster_anterior_conhecido = null`) — necessário para ativar a regra de subida máx. 1 cluster/ano |
-| CSAT de projetos {ANO_REF} em andamento | Usando fallback histórico de **{parametros['csat_fallback_historico']:.2f}** — cliente ainda não respondeu |
-| Selo EJ em conformidade | {"✅ Sim" if parametros['selo_ej_em_conformidade'] else "❌ Não"} |
-"""
-    )
