@@ -56,6 +56,8 @@ Cada notebook lê a saída do anterior a partir da pasta `dados_tratados/`, ent�
 - scikit-learn (`StandardScaler`, `LinearRegression`, `mean_absolute_error`)
 
 ### `app.py` — Dashboard interativo (Streamlit)
+
+🔗 Acesse o dashboard publicado em: **https://projectdexasimov-lr8njbkhzmhhrckcgbaxu5.streamlit.app/**
  
 Aplicação Streamlit que consome **todos** os arquivos gerados pelos três notebooks e apresenta os resultados em um painel interativo, com 7 abas:
  
@@ -107,14 +109,3 @@ O `Code_3.ipynb` deixa explícitas algumas premissas que dependem de validação
 - matplotlib, seaborn
 - scikit-learn (`StandardScaler`, `LinearRegression`, `mean_absolute_error`)
 - streamlit, plotly (dashboard)
-## Como executar
- 
-1. Instale as dependências:
-```bash
-   pip install pandas numpy matplotlib seaborn scikit-learn openpyxl streamlit plotly
-```
-2. Execute os notebooks na ordem `Code_1 → Code_2 → Code_3`, garantindo que a pasta `dados_tratados/` seja criada e populada a cada etapa (ver nota acima sobre o `Code_1`, inclusive quanto ao `metadados_execucao.json`).
-3. Rode o dashboard:
-```bash
-   streamlit run app.py
-```
